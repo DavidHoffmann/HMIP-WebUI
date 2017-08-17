@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+DEBUG = True
+SECRET_KEY = ''
+DATABASE_FILENAME = ''
+TIMEZONE = 'Europe/Berlin'
+HOST = '127.0.0.1'
